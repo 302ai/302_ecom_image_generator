@@ -1,0 +1,52 @@
+{
+  "name": "302-ecom-image-generator",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "prod": "next build && next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "^1.20.0",
+    "@types/whatwg-streams": "^3.2.1",
+    "antd": "^5.13.2",
+    "eventsource-parser": "^1.1.1",
+    "konva": "^9.3.3",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-advanced-cropper": "^0.20.0",
+    "react-compare-slider": "^3.1.0",
+    "react-dom": "^18",
+    "react-konva": "^18.2.10",
+    "react-konva-utils": "^1.0.6",
+    "react-mobile-cropper": "^0.10.0",
+    "react-player": "^2.16.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-zoom-pan-pinch": "^3.4.4",
+    "tailwind-merge": "^2.3.0",
+    "uuid": "^9.0.1",
+    "whatwg-fetch": "^3.6.20",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^9.0.7",
+    "@types/whatwg-fetch": "^0.0.33",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": "^20.9.0",
+    "npm": "^10.1.0",
+    "next": "^14.1.0"
+  }
+}

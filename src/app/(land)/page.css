@@ -1,0 +1,52 @@
+@tailwind utilities;
+
+
+.my-text-box {
+  border: 1px solid rgba(222, 222, 222, 1) !important; 
+  border-width: 1px !important;
+  border-radius: 0.25rem !important;
+}
+.my-text-box:hover {
+  border: 1px solid #7728f5 !important;
+}
+
+.my-button {
+  color: #6c6c6c !important;
+  cursor: pointer !important;
+}
+.my-button:hover {
+  color: #7728f5 !important;
+}
+
+.my-tag {
+  background-color: white !important;
+  color: #6c6c6c !important;
+  padding-top: 2px !important;
+}
+.my-tag:hover {
+  color: #7728f5 !important;
+}
+
+.my-tag-active {
+  color: #7728f5 !important;
+  background-color: #E1CBFD !important;
+  border-color: #7728f5 !important;
+}
+
+.my-icon {
+  font-size: 20px !important;
+}
+
+/* scroll */
+.my-scroll {
+	overflow-x: overlay !important;
+}
+
+
+.overlay {
+  color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.preview {
+  border: solid 2px #7728f5 !important;
+}
