@@ -6,7 +6,7 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-
+![pic-tool](docs/AI电商场景图生成.png)
 
 这是来自[302.AI](https://302.ai)的[AI电商场景图生成器](https://302.ai/tools/ecom1/)开源版本。你可以直接登录302.AI，零代码零基础使用在线版本，或根据自己的需求修改并自行部署。
 
