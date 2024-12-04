@@ -6,6 +6,7 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![pic-tool](docs/AI电商场景图生成en.png)
 
 This is the open-source version of the [AI E-commerce Scene Image Generator](https://302.ai/tools/ecom1/) by [302.AI](https://302.ai). You can log in to 302.AI to use the online version without coding skills, or modify and deploy it yourself according to your needs.
 
