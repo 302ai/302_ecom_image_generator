@@ -6,6 +6,7 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![pic-tool](docs/AI电商场景图生成jp.png) 
 
 これは[302.AI](https://302.ai)の[AI電商シナリオ画像生成器](https://302.ai/tools/ecom1/)のオープンソース版です。302.AIに直接ログインして、コードや基礎知識なしでオンライン版を使用するか、自分のニーズに合わせて変更し自分でデプロイできます。
 
