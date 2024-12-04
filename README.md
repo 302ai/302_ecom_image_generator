@@ -37,4 +37,7 @@ This is the open-source version of the [AI E-commerce Scene Image Generator](htt
 
 ## Interface Preview
 
-![pic-tool](docs/en/ecom.png)
+![pic-tool](docs/en/电商场景英1.png)     
+
+
+![pic-tool](docs/en/电商场景英2.png)
