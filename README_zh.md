@@ -2,7 +2,7 @@
 
 <p align="center">AI电商场景图生成器根据用户提供的产品图或模特图，结合不同的场景描述进行重新打光，生成适用于电商或其他行业的色彩一致的产品图片，还可以生成场景图视频。</p>
 
-<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/badge/21212.png" /></a></p >
+<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
@@ -11,8 +11,10 @@
 这是来自[302.AI](https://302.ai)的[AI电商场景图生成器](https://302.ai/tools/ecom1/)开源版本。你可以直接登录302.AI，零代码零基础使用在线版本，或根据自己的需求修改并自行部署。
 
 ## 界面预览
+根据提供的产品图或模特图，结合场景描述对图片进行二次打光。
+![pic-tool](docs/zh/电商场景图1.png)     
 
-![pic-tool](docs/zh/电商场景图1.png)
+生成电商场景图，还可以生成场景图视频。
 ![pic-tool](docs/zh/电商场景图2.png)
 
 ## 项目特性
