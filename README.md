@@ -2,9 +2,9 @@
 
 <p align="center">The AI e-commerce scene picture generator re-lights the pictures according to the product pictures or model pictures provided by users, combined with different scene descriptions, and generates product pictures with consistent colors that are applicable to e-commerce or other industries. It can also generate videos of scene pictures.</p>
 
-<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/en/tools/ecom1/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 
-<p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
+<p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![pic-tool](docs/AI电商场景图生成en.png)
 
