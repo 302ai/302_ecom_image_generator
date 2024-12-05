@@ -2,9 +2,9 @@
 
 <p align="center">AI 電子商取引シーン画像生成器は、ユーザーが提供する商品画像またはモデル画像を元に、さまざまなシーンの説明と組み合わせて再照明を行い、電子商取引やその他の業界に適用可能な色調が一致した商品画像を生成することができます。また、シーン画像のビデオを生成することもできます。</p>
 
-<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/ja/tools/ecom1/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
 
-<p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
+<p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![pic-tool](docs/AI电商场景图生成jp.png) 
 
