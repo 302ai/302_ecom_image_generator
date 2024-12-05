@@ -8,7 +8,7 @@
 
 ![pic-tool](docs/AI电商场景图生成en.png)
 
-This is the open-source version of the [AI E-commerce Scene Image Generator](https://302.ai/tools/ecom1/) by [302.AI](https://302.ai). You can log in to 302.AI to use the online version without coding skills, or modify and deploy it yourself according to your needs.
+This is the open-source version of the [AI E-commerce Scene Image Generator](https://302.ai/en/tools/ecom1/) by [302.AI](https://302.ai). You can log in to 302.AI to use the online version without coding skills, or modify and deploy it yourself according to your needs.
 
 ## Interface Preview
 Perform secondary lighting on the pictures based on the provided product pictures or model pictures, combined with scene descriptions.
